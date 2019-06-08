@@ -78,8 +78,8 @@ if __name__ =='__main__':
 	# In[30]:
 
 
-	training_pos = training_pos[0:20000]
-	training_neg = training_neg[0:20000]
+#	training_pos = training_pos[0:20000]
+#	training_neg = training_neg[0:20000]
 
 
 	# In[35]:
